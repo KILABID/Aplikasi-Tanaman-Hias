@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Aplikasi Tanaman Hias</string>
+    <string name="desc_tanaman">Deskripsi Tanaman</string>
+    <string name="nama_tanaman">Tanaman</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="about">About</string>
+
+    <string-array name="data_nama_tanaman">
+        <item>Aglaonema</item>
+        <item>Sirih Gading</item>
+        <item>Keladi hias</item>
+        <item>Lidah mertua</item>
+        <item>Kuping Gajah</item>
+        <item>Gelombang Cinta</item>
+        <item>Pohon dolar</item>
+        <item>Monstera</item>
+        <item>Homalomena</item>
+        <item>Kaktus</item>
+    </string-array>
+
+    <string-array name="data_desc_tanaman">
+        <item>Macam-macam tanaman hias daun yang sedang hits saat ini adalah aglaonema. Aglaonema termasuk tanaman hias jenis talas-talasan. Ada banyak jenis aglaonema dengan beragam corak, warna, dan ukuran. Harga aglaonema pun beragam sesuai dengan jenisnya, mulai dari RP 30 ribu sampai jutaan rupiah. Aglaonema adalah tanaman hias daun yang populer dan berasal dari keluarga Araceae. Tanaman ini dikenal karena daunnya yang lebar, berwarna-warni, dan memiliki pola unik. Aglaonema sering ditemukan sebagai tanaman indoor atau pot, karena tumbuh dengan baik di lingkungan dalam ruangan.
+        Ciri khas Aglaonema antara lain daunnya yang besar, elips atau lanceolate, dengan berbagai warna seperti hijau, merah, pink, atau putih, tergantung pada varietasnya. Beberapa varietas Aglaonema memiliki daun dengan pola hiasan seperti bercak atau garis. Tanaman ini cukup tahan terhadap kondisi pencahayaan rendah, membuatnya cocok untuk ditempatkan di dalam ruangan dengan cahaya yang terbatas. Aglaonema juga dikenal sebagai tanaman yang relatif mudah perawatannya, sehingga cocok bagi pemula dalam berkebun.
+        Selain keindahan visualnya, Aglaonema juga dianggap memiliki kemampuan membersihkan udara dari polutan seperti formaldehida dan senyawa kimia berbahaya lainnya. Meskipun Aglaonema umumnya ditanam dalam pot, tanaman ini dapat mencapai ketinggian sekitar 1-2 kaki tergantung pada jenisnya.</item>
+
+        <item>
+            Sirih gading menjadi salah satu macam-macam tanaman hias daun yang sedang populer beberapa waktu ini.
+            Sirih gading merupakan tanaman merambat semi-epifit dengan warna hijau yang segar. Sirih gading termasuk tanaman yang mudah dirawat dan bisa ditanam dengan media air. Sirih gading adalah tumbuhan merambat semi-epifit yang biasa ditanam orang sebagai penghias pekarangan atau ruangan. Tumbuhan anggota suku talas-talasan (Araceae) ini mudah dikenal dari warna daunnya yang belang warna kuning cerah hingga kuning pucat, merambat di batang pohon dengan daun yang besar sehingga menutupi batang pohon yang dirambatnya. Apabila ditanam di dalam pot, daunnya mengecil. Potongan cabangnya dapat bertahan hidup cukup lama apabila bagian pangkalnya dicelupkan ke air.
+        </item>
+        <item>
+            Keladi hias termasuk macam-macam tanaman hias yang termasuk dalam jenis Caladium. Saat ini keladi hias banyak dicari para pencinta tanaman hias.
+            Jenis yang paling banyak dicari seperti Caladium Gingerland, Caladium Carolyn Whorton, Caladium Moonlight, Caladium White Christmas, Caladium Freida Hemple, dan masih banyak lagi. Keladi hias, atau biasa disebut juga keladi ornamental, adalah kelompok tanaman hias yang berasal dari genus Caladium dan beberapa genus lainnya dalam famili Araceae. Tanaman ini terkenal karena daunnya yang besar, berwarna-warni, dan sering kali memiliki pola unik. Beberapa jenis keladi hias yang populer termasuk Caladium bicolor, Alocasia, Colocasia, dan Xanthosoma. Ciri khas keladi hias adalah daunnya yang beragam bentuk dan warna. Daun dapat memiliki pola bercak, garis-garis, atau gradasi warna yang menarik. Beberapa keladi hias tumbuh dalam bentuk umbi yang dapat disimpan dan ditanam kembali pada musim berikutnya. Keladi hias umumnya ditanam sebagai tanaman hias dalam pot atau taman. Mereka memerlukan tanah yang lembab, sinar matahari teredam, dan suhu yang hangat. Keladi hias dapat menjadi pilihan menarik untuk menghias ruang dalam dan memberikan sentuhan warna dan keindahan visual. Meskipun banyak jenis keladi hias, kebanyakan di antaranya dikenal sebagai tanaman yang relatif mudah perawatannya.
+        </item>
+        <item>Lidah mertua juga menjadi pilihan terbaik untuk tanaman hias di dalam maupun luar ruangan. Lidah buaya akan tumbuh subur dalam cahaya terang. Tanaman ini juga akan tumbuh dalam kondisi teduh. Jika beruntung, lidah mertua bisa menghadiahimu bunga putih yang harum.</item>
+        <item>Kuping Gajah atau Anthurium crystallinum merupakan tanaman dengan ciri khas daun lebar dengan tulang daun putih melengkung melebar. Kuping gajah masih berkerabat dengan macam-macam tanaman hias daun lainnya seperti aglaonema, philodendron, keladi hias, dan alokasia."Kuping Gajah" biasanya merujuk pada tanaman hias dari genus Begonia yang memiliki bentuk daun yang besar dan sering kali menyerupai bentuk kuping gajah. Salah satu spesies Begonia yang terkenal dengan sebutan "Kuping Gajah" adalah Begonia rex. Tanaman ini dikenal karena daunnya yang besar, berwarna-warni, dan memiliki pola hiasan yang unik.</item>
+        <item>Gelombang Cinta sempat mengguncang pasar tanaman hias pada 2007 silam. Tanaman satu ini bisa mencapai harga ratusan juta pada saat itu. Kini, meski harganya tak setinggi yang dulu, gelombang cinta masih memiliki penggemar. Gelombang memiliki daun besar, panjang, dan lebar dengan gelombang di tepi daunnya. Tanaman ini cukup mudah dikembangkan. Tanaman yang dikenal dengan sebutan "Gelombang Cinta" adalah tanaman hias yang memiliki nama ilmiahnya sebagai "Ctenanthe burle-marxii" atau sering juga disebut sebagai "Never-Never Plant" atau "Fishbone Prayer Plant." Ini adalah tanaman dengan daun-daun yang unik dan menarik.</item>
+        <item>Pohon dolar atau Zanzibar Gem memiliki daun tebal berbentuk oval yang cantik. Warna hijau tuanya yang mengkilap membuat tanaman ini seperti plastik. Tanaman ini toleran terhadap berbagai kondisi pencahayaan yang membuatnya cocok untuk tumbuh di dalam ruangan. "Pohon Dolar" atau "Pohon Uang" adalah sebutan umum untuk tanaman kaktus atau sukulen yang memiliki nama ilmiah Crassula ovata. Tanaman ini juga dikenal dengan nama lain seperti "Jade Plant" atau "Money Plant." Tanaman ini berasal dari Afrika Selatan dan menjadi populer sebagai tanaman hias indoor di berbagai belahan dunia.</item>
+        <item>Monstera merupakan jenis tanaman hias yang sangat populer di tahun 2020. anaman ini kerap menjadi penghijau ruangan dan memberi kesan tropikal yang segar. Jenisnya yang paling populer adalah janda bolong atau Monstera Obliqua dan Monstera Adansonii. Kedua tanaman monstrea ini bisa dihargai hingga jutaan rupiah. Monstera adalah tanaman hias populer yang berasal dari hutan-hutan tropis Amerika Tengah dan Amerika Selatan. Tanaman ini dikenal dengan daun-daun besar dan berlubang-lubang, yang memberinya penampilan yang unik. Nama ilmiah Monstera adalah Monstera deliciosa.</item>
+        <item>Homalomena termasuk macam-macam tanaman hias yang juga masih berkerabat dengan aglaonema dan keladi. Tanaman ini dikenal karena dedaunannya yang besar, berkilau dan perawatan yang relatif mudah. Daun Homalomena kebanyakan berbentuk hati atau mata panah. Inilah membuatnya mendapatkan julukan ratu hati atau tanaman perisai. Homalomena adalah genus tanaman tropis yang termasuk dalam keluarga Araceae. Genus ini mencakup berbagai spesies tanaman hias dengan daun-daun yang beragam bentuk dan pola. Homalomena umumnya berasal dari hutan-hutan tropis di Asia Tenggara dan Pasifik.
+Beberapa ciri umum dari tanaman Homalomena melibatkan daun-daun yang lebar, berwarna hijau, dan seringkali memiliki pola atau bercak-bercak menarik. Beberapa spesies dapat menghasilkan bunga kecil yang tersembunyi di antara daun-daunnya. Salah satu spesies yang populer sebagai tanaman hias adalah Homalomena rubescens.</item>
+        <item>Kaktus adalah pilihan paling tepat untuk ditanam pada tempat dengan sinar matahari penuh. Tanaman ini juga tak memerlukan perawatan ekstra, karena mereka bahkan dapat bertahan hidup dalam kondisi gurun dengan sangat sedikit air. Kebanyakan sukulen dan kaktus membutuhkan banyak cahaya. Mereka cocok untuk tempat tercerah di rumah. Anda bisa membangun beberapa rak di jendela yang cerah. Kaktus adalah kelompok tanaman sukulen yang terkenal karena kemampuannya menyimpan air dalam jaringan-jaringan tebal dan memiliki adaptasi khusus untuk bertahan di lingkungan kering. Berbeda dengan tanaman-tanaman pada umumnya, kaktus biasanya memiliki daun yang sangat termodifikasi atau bahkan tidak memiliki daun sama sekali. Sebaliknya, mereka memiliki batang yang dimodifikasi menjadi struktur yang disebut areola, tempat pertumbuhan, spina (duri), dan sering kali bunga ditempatkan.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/aglaonema</item>
+        <item>@drawable/sirih_gading</item>
+        <item>@drawable/keladi_hias</item>
+        <item>@drawable/kuping_gajah</item>
+        <item>@drawable/lidah_mertua</item>
+        <item>@drawable/gelombang_cinta</item>
+        <item>@drawable/pohon_dolar</item>
+        <item>@drawable/monstera</item>
+        <item>@drawable/homalomena</item>
+        <item>@drawable/kaktus</item>
+    </integer-array>
+
+    <string-array name="data_famili">
+        <item>Araceae</item>
+        <item>Asparagaceae</item>
+        <item>Moraceae</item>
+        <item>Cactaceae</item>
+    </string-array>
+
+    <string-array name="data_ordo">
+        <item>Alismatales</item>
+        <item>Asparagales</item>
+        <item>Rosales</item>
+        <item>Caryophyllales</item>
+    </string-array>
+
+</resources>
