@@ -1,9 +1,13 @@
 package com.latihanpbo.ujiandicoding
 
+import android.content.Intent
 import android.os.Bundle
+import android.view.Menu
+import android.view.View
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
+import com.google.android.material.snackbar.Snackbar
 
 
 class DescrpitionActivity : AppCompatActivity() {
@@ -58,11 +62,24 @@ class DescrpitionActivity : AppCompatActivity() {
         supportActionBar?.setDisplayHomeAsUpEnabled(true)
         supportActionBar?.setDisplayShowHomeEnabled(true)
 
+        val actionShare: View = findViewById(R.id.action_share)
+        actionShare.setOnClickListener { view ->
+            val intent = Intent()
+            intent.setAction(Intent.ACTION_SEND)
+            intent.putExtra(Intent.EXTRA_TEXT, namaTanaman.text)
+            intent.setType("text/plain")
+            if(intent.resolveActivity(packageManager) != null){
+                startActivity(intent)
+            }
+        }
+
 
     }
     override fun onSupportNavigateUp(): Boolean {
         onBackPressed()
         return true
     }
+
+
 
 }
